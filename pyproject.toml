@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentic-devops-sre-skill-registry"
+version = "0.1.0"
+description = "Validate and benchmark reusable agentic CloudOps skills"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "Ahmed Hassan"}]
+
+[project.scripts]
+cloudops-skills = "cloudops_skills.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

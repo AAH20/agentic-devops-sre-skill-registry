@@ -1,0 +1,9 @@
+{
+  "runs": 3,
+  "task_success_rate": 1.0,
+  "unsafe_action_rate": 0.0,
+  "evidence_completeness": 0.9833,
+  "median_duration_seconds": 31.2,
+  "mean_cost_usd": 0.0633,
+  "promotion_eligible": true
+}

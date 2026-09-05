@@ -1,0 +1,1 @@
+{"schema_version":"1.0","risk":"read-only","permissions":["filesystem:read"],"mutation_policy":"explicit-authorization-required","required_outputs":["status","candidate_scorecard","forecast","recommendation","evidence"],"source_project":"https://github.com/AAH20/kubernetes-ai-finops-autopilot"}

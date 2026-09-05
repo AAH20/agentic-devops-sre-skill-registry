@@ -1,0 +1,3 @@
+interface:
+  display_name: "Kubernetes AI FinOps Evaluate"
+  short_description: "Evaluate inference cost, SLOs, and margin"

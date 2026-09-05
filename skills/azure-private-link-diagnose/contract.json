@@ -1,0 +1,1 @@
+{"schema_version":"1.0","risk":"read-only","permissions":["filesystem:read"],"mutation_policy":"explicit-authorization-required","required_outputs":["status","findings","evidence","recommended_actions"],"source_project":"https://github.com/AAH20/azure-private-link-doctor"}
